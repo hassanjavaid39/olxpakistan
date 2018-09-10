@@ -1,6 +1,6 @@
 Full stack web application using React, Node.js, Express and Webpack.
 
-## Quick Start
+## How to Start
 
 ```bash
 # Install dependencies
